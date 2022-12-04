@@ -1,0 +1,15 @@
+.tableContainer{
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 5px;
+}
+.Action{
+    display: flex;
+    gap: 30px;
+}
+.addButton{
+    display: flex;
+    justify-content: end;
+}
